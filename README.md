@@ -1,2 +1,2 @@
 # Connect Study
-rename
+Static web page for Conect Study
