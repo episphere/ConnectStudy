@@ -1,2 +1,2 @@
-# lala
+# Connect Study
 rename
