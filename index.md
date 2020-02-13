@@ -1,5 +1,6 @@
 # Connect Study
 
+![alt text](Connect-logo-red-400.jpg "Connect Logo")
 The Connect study is a new prospective cohort of 200,000 adults in the United States designed to further investigate the etiology of cancer and its outcomes, which may inform new approaches in precision prevention and early detection. The new cohort will capitalize on research innovations to advance the field of cancer epidemiology and prevention including:
 
 1. New technologies (e.g., tracking and sensors to measure behavior and environment).
@@ -13,6 +14,7 @@ The Connect study will be conducted within a set of integrated health care syste
 The Connect study is supported by the <a href="https://irp.nih.gov/">NIH Intramural Research Program</a>
 
 Initial contracts were awarded to the following institutions:
+
 <ul>
 <li>HealthPartners, Minneapolis, MN</li>
 <li>Henry Ford Health System, Detroit, MI</li>
